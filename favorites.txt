@@ -1,0 +1,20 @@
+1 - apple
+2 - pear
+3 - banana
+4 - orange
+5 - avocado
+6 - tangerine
+7 - steak
+8 - milk
+9 - bread
+10 - juice
+11 - chicken
+12 - honey
+13 - coffee
+14 - tea
+15 - nutella
+16 - peanut butter
+17 - cheese
+18 - bacon
+19 - tomato
+20 - lemon
